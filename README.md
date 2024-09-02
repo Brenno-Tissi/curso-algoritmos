@@ -1,4 +1,4 @@
-# Algoritmos e Lógica de Programação - Curso COMPLETO
+# Projeto aula - Curso COMPLETO
 ###### Professor Dr. Nelio Alves
 
 ## Conheça nossos cursos:
